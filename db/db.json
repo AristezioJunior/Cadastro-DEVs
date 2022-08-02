@@ -1,0 +1,125 @@
+{
+  "desenvolvedor": {
+    "desenvolvimento": [
+      {
+        "id": 1,
+        "tipo": "Back-End"
+      },
+      {
+        "id": 2,
+        "tipo": "Front-End"
+      },
+      {
+        "id": 3,
+        "tipo": "Full Stack"
+      },
+      {
+        "id": 4,
+        "tipo": "Test"
+      },
+      {
+        "id": 5,
+        "tipo": "Analísta de Requisitos"
+      }
+    ],
+    "situacao": [
+      {
+        "id": 1,
+        "tipo": "Empregado"
+      },
+      {
+        "id": 2,
+        "tipo": "Desempregado"
+      },
+      {
+        "id": 3,
+        "tipo": "Estagiário"
+      },
+      {
+        "id": 4,
+        "tipo": "Freelancer"
+      }
+    ],
+    "idioma": [
+      {
+        "id": 1,
+        "tipo": "Português"
+      },
+      {
+        "id": 2,
+        "tipo": "Inglês"
+      },
+      {
+        "id": 3,
+        "tipo": "Espanhol"
+      },
+      {
+        "id": 4,
+        "tipo": "Alemão"
+      },
+      {
+        "id": 5,
+        "tipo": "Francês"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Junior"
+    },
+    {
+      "id": 2,
+      "tipo": "Pleno"
+    },
+    {
+      "id": 3,
+      "tipo": "Sênior"
+    }
+  ],
+  "devs": [
+    {
+      "nome": "Aristezio Junior",
+      "desenvolvimento": "Front-End",
+      "situacao": "Desempregado",
+      "idiomas": [
+        "Português"
+      ],
+      "status": "Pleno",
+      "id": 1
+    },
+    {
+      "nome": "Marcos Antonio",
+      "desenvolvimento": "Analísta de Requisitos",
+      "situacao": "Estagiário",
+      "idiomas": [
+        "Português",
+        "Inglês",
+        "Alemão"
+      ],
+      "status": "Sênior",
+      "id": 2
+    },
+    {
+      "nome": "Marcelo Brito",
+      "desenvolvimento": "Test",
+      "situacao": "Empregado",
+      "idiomas": [
+        "Português"
+      ],
+      "status": "Junior",
+      "id": 3
+    },
+    {
+      "nome": "Atila Braun",
+      "desenvolvimento": "Back-End",
+      "situacao": "Empregado",
+      "idiomas": [
+        "Português",
+        "Inglês"
+      ],
+      "status": "Pleno",
+      "id": 4
+    }
+  ]
+}
